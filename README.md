@@ -1,5 +1,7 @@
-### Hi there 👋
-
+## Hello there 👋 <br>
+## I am Afzal Ahmad.
+<hr>
+### Currently I am learning Full Stack Web Development course at masai school. I am so much paassionalte about coding that after being graduated as mechanical engineer I ended up being a Full Stack Web Development engineer
 
 <!-- **Afzal95/Afzal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
