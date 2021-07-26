@@ -46,9 +46,9 @@
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/afzalkh95/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afzal%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/afzalkh_95"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Afzal%20Ahmad-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:afzalahmad.me@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Afzal%20Ahmad-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/afzalkh95/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afzal%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/afzalkh_95" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Afzal%20Ahmad-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:afzalahmad.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Afzal%20Ahmad-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 #### &nbsp;&nbsp; Thank you for stopping by.
