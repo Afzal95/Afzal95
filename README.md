@@ -42,7 +42,7 @@
  </div>
 <br/>
 <h3>&nbsp;Visit my portfolio </h3>
-&nbsp;&nbsp;<a href="https://afzal95.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
+&nbsp;&nbsp;<a href="https://afzal95.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
