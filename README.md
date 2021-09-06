@@ -3,7 +3,7 @@
 
 <h3> &nbsp;About Me </h3>  
 
-- 🤔  &nbsp; Exploring new technologies and developing software solutions.
+- 🙂 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Learning Full Stack Web Development, MERN stack, Javascript and its frameworks <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at Masai Schook remotely.
 - 💼 &nbsp; I aspire to work as a full stack web developer.
 - 🌱 &nbsp; Learning more about AWS, Mongodb, Python and Typscript.
