@@ -4,11 +4,8 @@
 <h3> &nbsp;About Me </h3>  
 
 - 🙂 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Learning Full Stack Web Development, MERN stack, Javascript and its frameworks <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at Masai Schook remotely.
-- 💼 &nbsp; I aspire to work as a full stack web developer.
 - 🌱 &nbsp; Learning more about AWS, Mongodb, Python and Typscript.
 - 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on javascript projects that involve react,redux and &nbsp;&nbsp;node and lot of learnings.<br>
-- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together learn new things.
 <br/>
 - ⚡ Fun fact: Addicted to code, coffee and cricket.:smile:
 
